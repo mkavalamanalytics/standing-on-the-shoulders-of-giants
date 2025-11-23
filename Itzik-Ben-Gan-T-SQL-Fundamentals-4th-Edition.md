@@ -10,6 +10,17 @@
 - Relational model is the abstract way of storing data that SQL queries.
 - Domains of knowledge as columns and each row represent a relationship between those domains at some time.
 - Data is connected not by the way it is stored but by the very values that it stores - key column values.
+### Types of statements
 - |Data definition |Data manipulation | Data control|
   |------------------|-----------------|--------------|
   |CREATE,ALTER,DROP|SELECT,INSERT,UPDATE,DELETE,MERGE,TRUNCATE|REVOKE,GRANT|
+- The book is focussing on Data manipulation set of statements in SQL (DML).
+### Set Theory
+- A set is any collection M, into a **whole** of **definite, distinct**, objects m of **our perception or thought**<sup>1</sup>.
+- An Employee = {name,age,id}
+- An attribute = column
+  - Attribute is identified by a name not by order.
+- Relation = table
+
+  
+<sup>1 - A set of students and teachers, Class C, can be a also perceived as set of humans.</sup>
